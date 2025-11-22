@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "90fdbacc-c600-46e3-bd6d-31d88407cd85",
+      "name": "Demo Student",
+      "level": "beginner",
+      "topic": "fractions",
+      "learning_style": "visual"
+    }
+  ],
+  "progress": [
+    {
+      "student_id": "90fdbacc-c600-46e3-bd6d-31d88407cd85",
+      "score": 0,
+      "feedback": "Review basics and try simpler exercises."
+    }
+  ]
+}

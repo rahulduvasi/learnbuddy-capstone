@@ -1,0 +1,5 @@
+python-dotenv
+requests
+pandas
+sentence-transformers
+# faiss-cpu     # optional - uncomment on Linux/Kaggle if needed
