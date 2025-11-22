@@ -45,6 +45,9 @@ Together, these create a structured, personalized, and efficient learning experi
 
 LearnBuddy is implemented as a modular multi‑agent ecosystem.
 
+![LearnBuddy Architecture Diagram](https://github.com/rahulduvasi/learnbuddy-capstone/blob/main/20251122_082049.jpg)
+
+
 ## 1. Intake Agent – Student Profiler
 Collects:
 - Student ID  
@@ -198,6 +201,6 @@ requirements.txt
 
 # Credits
 
-Developed by **Rahul Duvasi**  
+Developed by **Rahul Duvasi & Team**  
 For **Kaggle Agents Intensive Capstone 2025**
 
